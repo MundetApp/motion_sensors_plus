@@ -1,7 +1,7 @@
 name: motion_sensors_plus
-description: "Access native motion sensors"
+description: "Access native motion sensors including orientation"
 version: 0.0.1
-homepage:
+homepage: https://mundet.app/
 
 environment:
   sdk: ^3.5.3
